@@ -1,0 +1,95 @@
+
+h1{
+    font-family: Verdana,Arial;
+    font-size: 25px;
+    font-weight: bold;
+    height: 50px;
+    margin: auto;
+    color: yellow;
+    padding: 5px;
+    text-align: center;
+   border-bottom: 10px solid darksalmon;
+   border-radius: 10%;
+}
+h2{
+    font-size: 6px;
+    font-family: Verdana,Arial;
+    padding: 2px;
+}
+
+section{
+    
+    background: darkslategray;
+    border-radius: 0% ;
+    margin:1px;
+}
+
+body{
+    background: darkslateblue;
+    border-bottom: 20px SOLID greenyellow;
+    border-top: 20px solid springgreen;
+    border-left: 20px solid orange;
+    border-right: 20px solid orange;
+    border-radius: 2%;
+    max-width: 800px;
+    width: 800px;
+    margin: auto;
+}
+
+.post{
+    margin-left: 5px;
+    font-weight: bold;
+    padding: 2px;
+    font-family: Verdana,Arial;
+    font-style: inherit;
+    text-transform: capitalize;
+}
+footer{
+    margin-left: 3px ;
+    background: darkslategray;
+    padding: 12px;
+    border-radius: 2%;
+    border-top: 10px solid darksalmon;
+    height: auto;
+}
+h4{
+    font-family: Verdana,Arial;
+    font-size: 18px;
+    color: yellow;
+}
+
+p{
+    color: white;
+}
+ #a,#b{
+    text-decoration:underline;
+    font-family: Verdana,Arial;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    color: rgb(47, 255, 193);
+}
+ol{
+    font-size: 25px;
+    color: yellow   ;
+    font-weight: bold;
+    font-family: Verdana,Arial;
+    list-style-type: square;
+    padding-left: 20px;
+    margin: auto;
+}
+#title,#title1,.subtitle{
+    color: yellow;
+
+}
+
+#title{
+    font-size: 20px;
+    font-style:inherit;
+}
+
+
+.subtitle{
+    font-size: 17px;
+    font-family: Verdana,Arial;
+}
